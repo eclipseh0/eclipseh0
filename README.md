@@ -1,4 +1,4 @@
-![Profile Banner](branding/profile_banner_anim.gif)
+![Profile Banner](branding/bg4 (1).gif)
 # 💫 About Me:
 I’m a sophomore at Ateneo de Davao University based in Davao City, Philippines. I’m passionate about learning how to become a skilled designer and developer. I believe that failure is part of the journey to success, and I embrace every challenge as an opportunity to grow.
 
